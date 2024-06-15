@@ -4,3 +4,14 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+whyour/qinglong:latest
+chatgpt-web-midjourney
+yidadaa/chatgpt-next-web
+wcjiang/linux-command
+hslr/sun-panel
+qingfeng2336/it-tools
+k1483162508/musicn
+helloz/onenav
+zhayujie/chatgpt-on-wechat
+frooodle/s-pdf
